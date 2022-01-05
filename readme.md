@@ -23,3 +23,4 @@ Only thing required is Python from Repl.it
 Run the program and enter in a word, if the word exist in the word bank it'll say its a real word. However, if not a real word it'll try and correcct user input to become a real word. If the word still does not exist in the bank it'll return that user input is not a real word.
 
 ### Any optional sections
+Hi
