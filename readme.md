@@ -24,3 +24,9 @@ Run the program and enter in a word, if the word exist in the word bank it'll sa
 
 ### Any optional sections
 Hi
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
