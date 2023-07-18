@@ -1,6 +1,6 @@
 # Title
 
-A non functioning function autocorrector 
+A functioning autocorrector 
 
 ## Table of Contents
 
